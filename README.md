@@ -18,4 +18,5 @@ With Mouse move event, if we are displaying the location coordinates of the mous
 
 # Useful links:
 [Telerik - Deboundcing and throttling](https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript#:~:text=Throttling%20is%20a%20technique%20in,Hello%2C%20world%20on%20the%20console.)
+
 [Geeks for Geeks - Deboucning](https://www.geeksforgeeks.org/debouncing-in-javascript/#:~:text=Debouncing%20in%20JavaScript%20is%20a,is%20a%20single%20threaded%20language.)
